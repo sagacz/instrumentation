@@ -1,0 +1,4 @@
+rootProject.name = 'instrumentacja'
+include 'com.instrumentacja.agent'
+include 'instrumentacja-agent'
+
